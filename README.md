@@ -1,4 +1,4 @@
-# go-http-default-request-header-transporter
+# go-http-default-request-header-transporter [![.github/workflows/check.yml](https://github.com/moznion/go-http-default-request-header-transporter/actions/workflows/check.yml/badge.svg)](https://github.com/moznion/go-http-default-request-header-transporter/actions/workflows/check.yml) [![codecov](https://codecov.io/gh/moznion/go-http-default-request-header-transporter/branch/main/graph/badge.svg?token=AFQ94U61WY)](https://codecov.io/gh/moznion/go-http-default-request-header-transporter) [![Go Reference](https://pkg.go.dev/badge/github.com/moznion/go-http-default-request-header-transporter#section-readme.svg)](https://pkg.go.dev/github.com/moznion/go-http-default-request-header-transporter#section-readme)
 
 A utility [http.Transport](https://pkg.go.dev/net/http#Transport) to inject the given default request header.
 
@@ -29,7 +29,7 @@ Please also refer to the [examples_test.go](./examples_test.go).
 
 ## Documentations
 
-TODO
+[![Go Reference](https://pkg.go.dev/badge/github.com/moznion/go-http-default-request-header-transporter#section-readme.svg)](https://pkg.go.dev/github.com/moznion/go-http-default-request-header-transporter#section-readme)
 
 ## Author
 
