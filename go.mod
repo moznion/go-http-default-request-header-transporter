@@ -1,6 +1,6 @@
 module github.com/moznion/go-http-default-request-header-transporter
 
-go 1.18
+go 1.19
 
 require github.com/stretchr/testify v1.7.2
 
